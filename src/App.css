@@ -1,0 +1,38 @@
+form {
+    width: 400px;
+    margin: 0 auto;
+    background-color: pink;
+    margin-bottom: 0 rem;
+}
+
+input {
+    display: block;
+    width: 200px;
+    margin: 0 auto 1rem auto;
+}
+
+button {
+    width: 200px;
+    height: 50px;
+    background-color: skyblue;
+    margin-left: 4rem;
+}
+
+table {
+    width: 100%;
+    padding-top: 14px;
+}
+
+th,
+td {
+    border: 1px, solid #ddd;
+    padding: 8px;
+}
+
+th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: center;
+    background-color: greenyellow;
+    color: #fff;
+}
